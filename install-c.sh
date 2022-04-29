@@ -6,4 +6,3 @@ sudo apt install pkg-config libssl-dev libssl-doc libcurl4-openssl-dev libjson-c
 sudo apt install make gcc clang-tools check gdb cmake -y
 sudo apt install valgrind
 sudo apt install docker docker.io -y
-cowsay "End of script"
